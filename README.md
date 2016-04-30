@@ -36,4 +36,4 @@ $.ready(() => {
 
 ### Advanced usage
 
-The purpose of this library is to be as lightweight as possible. The common build once minified and gziped is less than 5kB. The whole library being modular, you can still reduce the weight of your build importing only needed dependencies thanks to babel-chirashi-plugin.
+The purpose of this library is to be as lightweight as possible. The common build once minified and gziped is less than 5kB. The whole library being modular, you can still reduce the weight of your build importing only needed dependencies thanks to `babel-chirashi-plugin`.
