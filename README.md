@@ -17,7 +17,7 @@ Now you can import functions in your project:
 ```js
 import $ from 'chirashi'
 
-ready(() => {
+$.ready(() => {
   alert('Hello World!')
 })
 ```
